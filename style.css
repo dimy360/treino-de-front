@@ -231,7 +231,7 @@ a:hover {
      height: 300px;
      width: 400px;
      margin: 3rem 0px 0px;
-     background-image: url('./modern.jpg');
+     background-image: url('./03.jpg');
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -256,7 +256,7 @@ a:hover {
 .card-wrapper{
     text-align: center;
     font-family: sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     justify-content: center;
     align-items: center;
     position: relative;
